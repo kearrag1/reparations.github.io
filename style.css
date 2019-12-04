@@ -1,0 +1,65 @@
+html {
+  -font-size: 300px
+  align-content: center;
+}
+
+  a:link {
+  color: brown;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+  color: rgba(0, 0, 0, 0.5)
+}
+
+a:active {
+  color: black;
+  color: rgba(0, 0, 0, 0.5)
+}
+
+body.category-ticker {
+background-color: grey;
+color: green;
+font-size: 50px;
+}
+
+--h1{
+  color:pink;
+  font-family:arial;
+  border: 20px solid orange;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding:50px;
+}
+
+p{
+color: white;
+  font-family:"Gist";
+  -background-color: none;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding:50px;
+  align-content: left;
+  font-size: 100px;
+}
+
+body{
+  background-color:brown;
+background-image: linear-gradient(
+    black,brown);
+  font-family: "Gist";
+  color: white;
+}
+
+img {
+  border: 20px solid brown;
+  width: 50%;
+  height: 50%;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding:50px;
+}
